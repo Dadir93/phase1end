@@ -121,3 +121,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
+
+let apiKey = "3fa3a3e54d573aa4e217d524";
+
+currencies = [
+    "AED",
+    "AFN",
+    "AUD",
+    "KES",
+    "USD",
+];
